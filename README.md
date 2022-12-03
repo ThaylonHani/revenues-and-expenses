@@ -7,7 +7,7 @@
 
 - [x] Limpar receitas.
 - [x] Limpar despesas.
-- [x] Calcular entre despesas e receitas.
+- [x] Calcular a diferença entre despesas e receitas.
 - [ ] Mostrar no front-end
 - [ ] Ser capaz de guardar o valor da diferença para usar depois
 
