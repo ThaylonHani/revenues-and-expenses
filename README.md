@@ -1,7 +1,7 @@
 <h1 align="center">Revenues-and-Expenses</h1>
 
 
-<h4>Um código em python para calcular a diferença entre receitas e depesas pelo terminal.</h4>
+<h4>Um código em python para calcular a diferença entre receitas e despesas pelo terminal.</h4>
 
 <h5>Coisas possíveis:</h5>
 
